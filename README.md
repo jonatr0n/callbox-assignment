@@ -1,5 +1,5 @@
 ---
-permalink: /staff_page.html
+permalink: staff_page.html
 ---
 
 
