@@ -1,7 +1,3 @@
----
-permalink: /staff_page.html
----
-
 
 # callbox-assignment
 
