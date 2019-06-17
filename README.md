@@ -1,6 +1,6 @@
 # callbox-assignment
 
-An employee contact sheet assingment for CallBox
+An employee contact sheet assignment for CallBox
 
 This assignment satifies the requirements for the employee contact sheet and the navigation bar
 
